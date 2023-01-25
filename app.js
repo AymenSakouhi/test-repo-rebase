@@ -9,7 +9,5 @@ const appOnFeatureNow = "This one is from feature";
 const featureWhatever = "bla bla";
 const featureWhatever2 = "asdasdadasdas";
 
-
-const line = '13';
-const line = '14';
-
+const lineA = "13";
+const lineB = "14";
