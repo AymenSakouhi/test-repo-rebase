@@ -19,3 +19,4 @@ const newCommit = "new commit bech njareb biha";
 const something = "wen";
 const git = "something";
 const haja = "haja";
+const mergiha = "yo";
