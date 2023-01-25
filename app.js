@@ -12,3 +12,6 @@ const lineA = "13";
 const lineB = "14";
 const lineC = "16";
 const lineD = "17";
+
+const lineF = "20";
+const lineZ = "21";
