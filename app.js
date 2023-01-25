@@ -17,3 +17,4 @@ const lineF = "20";
 const lineZ = "21";
 const newCommit = "new commit bech njareb biha";
 const something = "wen";
+const git = "something";
